@@ -7,7 +7,9 @@ Project Overview
 In this project, you'll explore:
 
 Basic HTML Structure: Understand how to set up a well-organized HTML document.
+
 CSS Styling: Learn to enhance the appearance of text, colors, and layout using CSS.
+
 Responsive Design: Implement techniques to ensure your webpage looks great on all device sizes.
 
 Just completed optimizing web pages with advanced CSS techniques and media queries at Mainflow Technologies! 🌟 Enhanced layouts for seamless display across various devices.
